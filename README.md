@@ -2,6 +2,8 @@
 
 Blender addon for importing ***.tob*** 3D models from game **Shade: Wrath of Angels**
 
+For using download  file ***io_scene_shade_wrath_of_angels_tob.zip*** from ***Releases***
+
 ![prevy](prev1.jpg)
 
 
@@ -10,6 +12,8 @@ Blender addon for importing ***.tob*** 3D models from game **Shade: Wrath of Ang
 Аддон для импорта в Blender статических моделей ***.tob*** из игры **Shade: Wrath of Angels**.
 
 Весь аддон полностью написан DeepSeek. Я совершенно ничего не понимаю во всем этом.
+
+Для использования скачайте файл ***io_scene_shade_wrath_of_angels_tob.zip*** из ***Releases***
 
 Анимированный модели имеют формат .x, импортируются в Blender с помощью аддона: https://extensions.blender.org/add-ons/io-directx-x/
 
@@ -20,5 +24,7 @@ Blender addon for importing ***.tob*** 3D models from game **Shade: Wrath of Ang
 An add-on for importing static ***.tob*** models from the game **Shade: Wrath of Angels** into Blender.
 
 The entire add-on was written by DeepSeek. I don’t understand any of this myself.
+
+For using download  file ***io_scene_shade_wrath_of_angels_tob.zip*** from ***Releases***
 
 Animated models use the .x format and can be imported into Blender using this add-on: https://extensions.blender.org/add-ons/io-directx-x/
